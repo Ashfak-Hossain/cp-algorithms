@@ -237,3 +237,4 @@ We now choose two pairs of identical remainders with the smallest indices in the
 * [Codeforces - A. Hexadecimal's theorem](https://codeforces.com/problemset/problem/199/A)
 * [Codeforces - B. Blackboard Fibonacci](https://codeforces.com/problemset/problem/217/B)
 * [Codeforces - E. Fibonacci Number](https://codeforces.com/problemset/problem/193/E)
+* [CSES - Fibonacci Numbers](https://cses.fi/problemset/task/1722)
